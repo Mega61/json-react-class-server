@@ -1,37 +1,39 @@
-[
-  {
-    "gameId": 1,
-    "title": "Game 1",
-    "description": "Game 1 description",
-    "price": 30000,
-    "token": "Token1"
-  },
-  {
-    "gameId": 2,
-    "title": "Game 2",
-    "description": "Game 2 description",
-    "price": 20000,
-    "token": "Token2"
-  },
-  {
-    "gameId": 3,
-    "title": "Game 3",
-    "description": "Game 3 description",
-    "price": 22000,
-    "token": "Token3"
-  },
-  {
-    "gameId": 4,
-    "title": "Game 4",
-    "description": "Game 4 description",
-    "price": 200000,
-    "token": "Token4"
-  },
-  {
-    "gameId": 5,
-    "title": "Game 5",
-    "description": "Game 5 description",
-    "price": 2120000,
-    "token": "Token5"
-  }
-]
+{
+  "games":[
+    {
+      "gameId": 1,
+      "title": "Game 1",
+      "description": "Game 1 description",
+      "price": 30000,
+      "token": "Token1"
+    },
+    {
+      "gameId": 2,
+      "title": "Game 2",
+      "description": "Game 2 description",
+      "price": 20000,
+      "token": "Token2"
+    },
+    {
+      "gameId": 3,
+      "title": "Game 3",
+      "description": "Game 3 description",
+      "price": 22000,
+      "token": "Token3"
+    },
+    {
+      "gameId": 4,
+      "title": "Game 4",
+      "description": "Game 4 description",
+      "price": 200000,
+      "token": "Token4"
+    },
+    {
+      "gameId": 5,
+      "title": "Game 5",
+      "description": "Game 5 description",
+      "price": 2120000,
+      "token": "Token5"
+    }
+  ]
+}
